@@ -6,12 +6,13 @@
 
 ![Screenshot (33)](https://user-images.githubusercontent.com/61549396/115108990-fafe2a00-9f90-11eb-849d-7e4871e4d9d8.png)
 
+<div>
+  <h1 align="center">Search-User<h1>
 
-<h1 align="center">Search-User<h1>
+  <h2 align="center">Provide github username as input in the text field and click on search icon</h2> 
 
-<h2 align="center">Provide github username as input in the text field and click on search icon</h2> 
-
-![screen-recorder-sat-apr-17-2021-15-26-56](https://user-images.githubusercontent.com/61549396/115109158-c343b200-9f91-11eb-8e56-0d26e0c1ecd8.gif)
+  <img src="https://user-images.githubusercontent.com/61549396/115109158-c343b200-9f91-11eb-8e56-0d26e0c1ecd8.gif"/>
+</div>
 
 <h1 align="center">Delete<h1>
 
