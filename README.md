@@ -9,6 +9,8 @@
 
 <h1 align="center">Search-User<h1>
 
+<h2 align="center">Provide github username as input in the text field and click on search icon</h2> 
+
 ![screen-recorder-sat-apr-17-2021-15-26-56](https://user-images.githubusercontent.com/61549396/115109158-c343b200-9f91-11eb-8e56-0d26e0c1ecd8.gif)
 
 <h1 align="center">Delete<h1>
