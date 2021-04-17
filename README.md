@@ -4,6 +4,7 @@
 # User-Info
   
   User-Info consists of 
+  - Name
   - Followers
   - Following
   - Total public repos
