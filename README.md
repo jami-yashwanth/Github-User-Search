@@ -1,7 +1,17 @@
 <h1 align="center">HomePage<h1>
 <img src="https://user-images.githubusercontent.com/61549396/115108222-d902a880-9f8c-11eb-8028-ce14bbad1280.png">
 
-<h1 align="center">User-Info<h1>
+# <h1 align="center">User-Info<h1>
+  
+  User-Info consists of 
+  - Followers
+  - Following
+  - Total public repos
+  - Account created on
+  - Last posted on
+  - User Profile link
+  - User repositories link
+  
 <img src="https://user-images.githubusercontent.com/61549396/115108990-fafe2a00-9f90-11eb-849d-7e4871e4d9d8.png"/>
 
 
