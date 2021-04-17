@@ -1,0 +1,26 @@
+.Block{
+    margin-top: 30px;
+    background-color: #00154f;
+    color: white;
+    width: 100vh;
+    display: flex;
+    border-radius: 5px;
+    box-shadow: 0px 0px 7px 2px rgb(180, 172, 172);
+    justify-content: center;
+    align-items: center;
+}
+
+.Following{
+    justify-content: space-evenly;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color : rgb(216, 190, 190)
+}
+
+a:hover{
+    color:  rgb(216, 190, 190);
+    text-shadow: 0px 0px 3px rgb(216, 190, 190);
+}
