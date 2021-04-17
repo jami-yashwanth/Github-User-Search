@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/61549396/115108990-fafe2a00-9f90-11eb-849d-7e4871e4d9d8.png"/>
 
 
-# <h1 align="center">Search-User<h1>
+<h1 align="center">Search-User<h1>
 <p align="left">Provide github username as input in the text field and click on search icon</p> 
 <img src="https://user-images.githubusercontent.com/61549396/115109158-c343b200-9f91-11eb-8e56-0d26e0c1ecd8.gif"/>
   
