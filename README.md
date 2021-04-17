@@ -24,7 +24,7 @@
   
 # Delete
   
-  On clicking ***DELETE*** button That particular user card will be deleted 
+  On clicking ***DELETE*** button that particular user card will be ~~deleted ~~
   
   <img src="https://user-images.githubusercontent.com/61549396/115109547-00a93f00-9f94-11eb-9143-828b4714d838.gif"/>
 
